@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanCarrillo1996
-- 👀 I’m interested in database and web development...
-- 🌱 I’m currently learning Angular...
-- 💞️ I’m looking to collaborate on any foreign company in the world...
+- 👀 I’m interested in database and web development.
+- 🌱 I’m currently learning Angular, NodeJs and MongoDB.
+- 💞️ I’m looking to collaborate on any foreign company in the world.
 - 📫 How to reach me whatsapp +57 3002727678
 
 <!---
